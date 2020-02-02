@@ -1,6 +1,8 @@
 # Traffic-System-Simulation
 Traffic system simulation with Fuzzy Controller &amp; Backpropagation Neural Network using Matlab Simulink
 
+You can see the video [here](https://www.youtube.com/watch?v=_zLZ9wE8MpA).
+
 ![](Pictures/Overview.PNG)
 
 Traffic System Simulation with Matlab Simulink. This simulation is used to arrange the time of green lights based on vehicle amount. Using 4-side way (Nort, East, South, & West) and 2-direction (straight & turn-right).
